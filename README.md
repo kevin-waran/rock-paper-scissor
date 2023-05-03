@@ -4,3 +4,5 @@ This is a classic game of Rock Paper Scissors built with HTML, CSS, and JavaScri
 
 
 <img width="960" alt="Screenshot 2023-05-03 111906" src="https://user-images.githubusercontent.com/131924416/235961752-5cf3d61f-1ca6-430f-b68d-aea4545f0c13.png">
+<img width="960" alt="Screenshot 2023-05-03 111934" src="https://user-images.githubusercontent.com/131924416/235961920-ca454cf0-5ab3-4924-aa69-80895b178902.png">
+
